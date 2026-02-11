@@ -1,6 +1,6 @@
 
 <p align="center">
-![OpenEnergyTwin Logo](./logo.png)
+<img src="./logo.png" width="30%" />
 </p>
 
 # OpenEnergyTwin
